@@ -1,0 +1,4 @@
+driver.path=/drivers/chromedriver
+#driver.path=/drivers/geckodriver
+browser.name=chrome
+#browser.name=firefox

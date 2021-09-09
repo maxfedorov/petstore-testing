@@ -1,0 +1,7 @@
+.idea
+.allure/
+.gradle/
+allure-results/
+build/
+target/
+*.properties
