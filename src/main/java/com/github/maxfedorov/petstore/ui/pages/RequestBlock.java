@@ -82,7 +82,7 @@ public class RequestBlock extends BasePage {
     }
 
     private WebElement getResponse() {
-        return driver.findElement(block).findElement(RESPONSE_TABLE);
+        return block().findElement(RESPONSE_TABLE);
     }
 
 }
