@@ -4,4 +4,3 @@
 allure-results/
 build/
 target/
-*.properties
